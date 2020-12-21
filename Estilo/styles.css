@@ -1,0 +1,120 @@
+h1,
+h2,
+h3,
+h4{
+    font-family: 'Lato', sans-serif;
+}
+p{
+    font-family: 'Varela Round', sans-serif;
+}
+span{
+    font-family: 'Teko', sans-serif;
+    font-size: 5rem;
+}
+
+
+.encabezado-sitio img{
+    height: 12rem;
+    width: 23rem;
+}
+
+
+.sociales ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sociales ul li{
+    position: relative;
+    display: inline-block;
+    padding: 0.4rem;
+    font-size: 2rem;
+    color: #024634;
+}
+
+.navegacion{
+    background-color: #4c4d4e;
+}
+
+.nav-principal{
+    border-top: white 2.2px dotted;
+    border-bottom: white 2.2px dotted;
+
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+
+.nav-link{
+    color: white;
+    font-size: 1.4rem;
+    transition: all .5s ease-in-out;
+    font-family: 'Raleway', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #7b8180;
+    color: rgb(51, 50, 50);
+}
+
+.img-slr{
+    width: 100%;
+    height: 40rem;
+}
+
+.img-peq{
+    height: 8rem;
+    width: 8rem;
+}
+
+.img-sep{
+    width: 60%;   
+}
+
+.colorA{
+    background-color: #4c4d4e;
+}
+
+.fondoA{
+    background-image: url(../Img/Fondo3.jpg);
+    background-size: cover;
+    background-position: bottom center;
+}
+.fondoB{
+    background-image: url(../Img/Fondo5.jpg);
+    background-size: cover;
+    background-position: bottom center;
+}
+.img-anuncio{
+    height: 30rem;
+}
+
+.contenido-c{
+    border-top: solid 3px white;
+    border-bottom: solid 3px white;
+}
+
+.ico{
+    height: 4rem;
+    width: 6rem;
+}
+.pre{
+    height: 4rem;
+    width: 4rem;
+} 
+.bg-dark{
+    background-color: #024634!important;
+}
+
+.img-anuncio{
+    height: 13rem;
+    width: 100%;
+}
+
+.formulario-contacto{
+    border: 2px solid #9a9a9a;
+    background-color: white;
+
+}
